@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+body {
+    background-color: darkslategray;
+    text-shadow: 1px 1px black;
+}
+textarea {
+    size: 100pt;
+    width: 99%;
+    max-width: 495pt;
+    height: 100pt;
+    
+    color: white;
+}
+p, textarea {
+    font-size: medium;
+}
+a, h1, h2, h3 {
+    color: lightgreen
+}
+input, button, textarea {
+    background-color: #3f3f3f;
+}
+button {
+    font-size: larger;
+    width: 100%;
+    max-width: 500pt;
+}
